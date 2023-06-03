@@ -18,7 +18,7 @@ Gateways as shown in figure below.
 Create an ACL which prevents PC0 to access both Server0 and Laptop0. Apply it 
 properly.
 Create an ACL which prevents PC5 from accessing to PC7 and PC6.
-Assignment nr. 2
+
 ![image](https://github.com/DanjaBali/Network-Administration-and-Managment/assets/48566297/5646f781-5eaf-4317-832e-c05695fdfbe2)
 
 Note: Please specify the networks and router interface’s IP addresses in your .pkt file. 
